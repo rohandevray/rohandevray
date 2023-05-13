@@ -6,8 +6,8 @@ Web Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [devrayrohan392@gmail.com](mailto:devrayrohan392@gmail.com)
-* 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on ReactJS Projects
+* 🧠  I'm learning Deep Learning 
+* 🤝  I'm open to collaborating on Django Projects
 
 ### Skills
 
